@@ -15,16 +15,16 @@
 }
 
 .bolds {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-size: 23px;
     font-weight: bold;
     margin-bottom: 0;
 }
 
 .texts {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-size: 17px;
     margin-top: 0;
     padding-top: 5px;
@@ -32,8 +32,8 @@
 }
 
 .bolds2 {
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
     font-size: 20px;
     font-weight: bold;
     margin-top: 0;
@@ -43,5 +43,5 @@
 }
 
 .lists {
-    margin-left: 30px;
+    margin-left: 20px;
 }
